@@ -1,4 +1,4 @@
-# Welcome to my Github Page
+## Welcome to my Github Page
 
 👋 hey I am GhostScissors, a Fortnite Leaker, currently aiming to be better leaks provider. I am the type of person switching from projects to projects and language to language.
 
