@@ -1,6 +1,6 @@
-## Welcom to my Code Abode
+## Welcome to my Code Abode
 
-👋 hey I am GhostScissors, a Fortnite Leaker, currently aiming to be better leaks provider. I am the type of person switching from projects to projects and language to language.
+👋 Hey I am GhostScissors, a Fortnite Leaker, currently aiming to be better leaks provider. I am the type of person switching from projects to projects and language to language.
 
 ### 🗣️ Some of the languages I speak
 
@@ -9,7 +9,7 @@
 * **Punjabi**
 * **Mandarin** ( A little bit )
 
-### 💻 Coding languages I wanna learn
+### 💻 Coding languages I am interested in
   
 * **C#**
 * **Python**
