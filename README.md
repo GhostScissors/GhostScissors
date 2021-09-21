@@ -15,7 +15,7 @@
 * **Python**
 * **C++**
 
-### ⚙️ Leaking tools I use
+### ⚙️ Some of the leaking tools I use
 
 * **[FModel](https://github.com/iAmAsval/FModel) | By [Asval](https://github.com/iAmAsval)**
 * **[UEViewer](https://www.gildor.org/en/projects/umodel) | By [Gildor2](https://github.com/gildor2)**
