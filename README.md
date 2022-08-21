@@ -2,13 +2,6 @@
 
 👋 Hey I am GhostScissors, a Fortnite Leaker, currently aiming to be better leaks provider. I am the type of person switching from projects to projects and language to language.
 
-### 🗣️ Some of the languages I speak
-
-* **English**
-* **Hindi**
-* **Punjabi**
-* **Mandarin** ( A little bit )
-
 ### 💻 Coding languages I am interested in
   
 * **C#**
